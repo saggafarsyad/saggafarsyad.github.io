@@ -18,14 +18,14 @@ Jekyll has official [Docker images][jekyll-docker], but I didn't find any good t
 
 Some tutorial out there use Jekyll Docker image with *latest* or *stable* tag, I found out using *builder* tag is better because it has **bash**, so you'll write less command. Call this line on Docker terminal:
 
-    docker run --rm -i -t --name=saggafarsyad-github --volume=/$(pwd):/srv/jekyll/ -p 4000:4000 jekyll/jekyll:builder bash
+    docker run --rm -i -t --name=jekyll-builder --volume=/$(pwd):/srv/jekyll/ -p 4000:4000 jekyll/jekyll:builder bash
 
 ### 3. Create a new site 
 
     jekyll new .
 
 ### 4. Edit your site  
-You can start by editing the **_config.yml** file. For more, go to the [Jekyll Documentation][jekyll-docs].
+You can start by editin`g the **_config.yml** file. For more, go to the [Jekyll Documentation][jekyll-docs].
 
 ### 5. Build and Preview the site
 
