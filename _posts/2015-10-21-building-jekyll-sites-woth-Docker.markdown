@@ -2,7 +2,8 @@
 layout: post
 title:  "Building Jekyll Sites with Docker"
 date:   2015-10-21 21:47:00
-categories: jekyll windows mac blog lang-english docker
+categories: jekyll windows mac blog docker
+language: en
 ---
 Jekyll is a static site generator. You write your post in a markdown file and Jekyll will render it beautifully. So you don't waste your time to format or design it. No database required make it light, fast and secure. Another great thing is you can have you own free blog  with github.io domain! Cool, right?
 
