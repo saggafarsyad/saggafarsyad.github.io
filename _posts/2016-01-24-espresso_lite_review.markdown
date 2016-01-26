@@ -38,11 +38,11 @@ Last, I would love to see a library/dependency for mobile and web apps, so maker
 
 [makedonia-home]: http://www.makedonia.co/
 [espert-home]: http://www.espert.co/
-[espert-comparison]: /images/espert-comparison.png
 [espert-mobileapp]: http://thaigw.com/apps/espert/
 [espert-client]: http://www.espert.io/mqtt/
 [espert-freeboard]: http://www.espert.io/freeboard/index.html
 [espert-dashboard]: http://www.espert.io/
 [espert-guide]: https://www.dropbox.com/s/2iua0zr1peis6ka/IoT%20Workshop%20Guide%20Rev%202.pdf?dl=0
-[espert-image1]: /images/espresso_lite.jpg
-[william]: /images/william_hooi.jpg
+[espert-comparison]: https://raw.githubusercontent.com/saggafarsyad/saggafarsyad.github.io/master/images/espert-comparison.PNG
+[espert-image1]: https://raw.githubusercontent.com/saggafarsyad/saggafarsyad.github.io/master/images/espresso_lite.jpg
+[william]: https://raw.githubusercontent.com/saggafarsyad/saggafarsyad.github.io/master/images/william_hooi.jpg
