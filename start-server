@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm -i -t --name=saggafarsyad.github.io --volume=/$(pwd):/srv/jekyll/ -p 4000:4000 jekyll/jekyll:builder jekyll serve --watch --force_polling
