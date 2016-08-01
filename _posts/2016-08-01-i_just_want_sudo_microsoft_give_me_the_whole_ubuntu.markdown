@@ -34,13 +34,13 @@ For Ruby developers, Jekyll bloggers and others who relies on open-source tools 
 *Bash on Windows* is still in Beta. I'm sure it will be getting richer features and getting better in the future. If you found problems, you could find solutions or ask a question in [here][bash-win-issues] 
 
 ## Alternative
-If you want to accomplish Ubuntu terminal features in Windows, I recommend you to use [Git for Windows][git-win], [ConEmu][conemu] for console emulator and [Chocolatey][chocolatey] for `apt-get` alternative.
+If you want to accomplish Ubuntu terminal features in Windows, I recommend you to use [Git for Windows][git-win], [ConEmu][conemu] for console emulator and [Chocolatey][chocolatey] for *apt-get* alternative.
 
 ![ConEmu][conemu-image]
 
 If you don't want hassle, there is [Cmder][cmder], a fully-packaged console emulator based on *ConEmu*, *clink*, and *Git for Windows*
 
-![Cmder][cmder]
+![Cmder][cmder-image]
 
 In the end, I realized that I just want **sudo** in Command Prompt.
 
