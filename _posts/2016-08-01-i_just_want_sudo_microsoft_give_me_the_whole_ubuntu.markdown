@@ -19,12 +19,12 @@ Restart computer and run *bash* from Start Menu by clicking **Bash on Ubuntu on 
 
 ![Start Bash][wsl-2]
 
-## First Impression
+### First Impression
 It is awesome to have UNIX command lines such as *grep*, installing tools as easy as *apt-get* and gain privileges as simple as *sudo*. I really hate UAC prompt to pop up and open new terminal everytime I want to gain privileges from command line. *Windows Command Line* lack of these features and somehow I just don't like *PowerShell*.
  
 *bash* Home folder is separated with Windows Home folder. To access from *Windows Explorer*, go to `C:\Users\%YOUR_USERNAME%\AppData\Local\lxss`.  *bash* cannot execute Windows binaries so I have to install *git* and other tools via *apt-get* and sources. *ruby* packages is outdated too, so I install it from [Brightbox repository][brightbox-repo].
 
-## My Verdict
+### My Verdict
 I'm more graphical UI guy, but lately I found it's more productive to use command line. I use *Git for Windows* or *git-bash* as my default terminal. It's awesome because I got UNIX command lines as well as able to execute Windows binaries. 
 
 Comparing *git-bash* to *Bash on Windows*, I don't think it will replace my default terminal anytime soon. Developer tools that I mostly used like *node*, *go*, and *docker* is available natively for Windows. Even though some features would be missed, it's still enough for most developers and students. Besides, there won't be any features to [run Windows exectable][wsl-issue-1] very soon. 
@@ -33,7 +33,7 @@ For Ruby developers, Jekyll bloggers and others who relies on open-source tools 
 
 *Bash on Windows* is still in Beta. I'm sure it will be getting richer features and getting better in the future. If you found problems, you could find solutions or ask a question in [here][bash-win-issues] 
 
-## Alternative
+### Alternative
 If you want to accomplish Ubuntu terminal features in Windows, I recommend you to use [Git for Windows][git-win], [ConEmu][conemu] for console emulator and [Chocolatey][chocolatey] for *apt-get* alternative.
 
 ![ConEmu][conemu-image]
