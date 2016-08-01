@@ -10,7 +10,7 @@ language: en
 
 My laptop just got updates last night. It seems I got Windows 10 Anniversary Update earlier. One feature that I've been waiting is Windows Subsystem for Linux (WSL), or more known as Bash on Windows on Ubuntu. So why not give it a try?
 
-## Enabling Windows Subsystem for Linux
+### Enabling Windows Subsystem for Linux
 My Windows build version after update is **14393**. To enable *bash* feature, go to **Programs and Features** in Control Panel, click **Turn Windows features on or off** in left sidebar. Tick **Windows Subsystem for Linux (Beta)** checkbox and click **OK**
 
 ![Turn On WSL Feature][wsl-1]
